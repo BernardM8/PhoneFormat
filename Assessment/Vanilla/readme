@@ -1,0 +1,3 @@
+Dummy link hosted on : https://phone-format-vanilla.firebaseapp.com/
+Test cases are located at Assessment/Vanilla/src/testFormat.test.js
+To run tests install jest, then  you can run "npx jest --testPathPattern=testFormat.test.js"

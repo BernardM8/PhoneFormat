@@ -1,0 +1,3 @@
+Dummy link hosted on : https://phone-format-react.firebaseapp.com/
+Test cases are located at Assessment/React/my-app/src/testFormat.test.js
+To run tests install jest "npm install --save-dev react-test-renderer", then  you can run "npm test "or "react-scripts test"

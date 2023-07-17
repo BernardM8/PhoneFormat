@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "babel-jest": "^29.6.1",
+    "es-dev-server": "^2.1.0",
+    "jest": "^29.6.1",
+    "jsdom": "^22.1.0"
+  },
+  "scripts": {
+    "start": "es-dev-server --open",
+    "test" : "npx jest --testPathPattern=testFormat.test.js"
+  }
+}
